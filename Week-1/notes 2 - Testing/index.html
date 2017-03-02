@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Problem Solving</title>
+    <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet"
+         href="https://fast.fonts.net/cssapi/d54a714a-c273-4b73-aa83-1991af6f62e6.css"/>
+    <style>
+
+    body {
+      font-family: 'AvenirNextRoundedW01-Re';
+      color: #0B0C0C;
+    }
+    .remark-code, .remark-inline-code {
+      color: #0B0C0C;
+   }
+
+   .remark-slide-content {
+     background-color: #fafafa;
+   }
+
+   img[src*='logo'] {
+     width: 50%;
+   }
+
+   img[src*='mini'] {
+     width: 10%;
+     position: absolute;
+     top: 10px;
+     left: 85%;
+   }
+
+   h1:before {
+     content: '<';
+     color: #c1002e;
+   }
+
+   h1:after {
+     content: ' />';
+     color: #c1002e;
+   }
+
+   .logo:before {
+     content: url(mini.png);
+     position: absolute;
+     top: 18px;
+     left: 82%;
+   }
+
+   img[src*='euclid'] {
+    width: 50%;
+   }
+
+   img[src*='abstraction'] {
+    width: 90%;
+   }
+
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+![Logo](logo.png)
+# Problem Solving Skills
+or
+### "The sooner you start coding your program the longer it's going to take."
+
+---
+
+class: logo
+
+# Problem Solving Skills
+
+Technology comes and goes fast.
+
+Problem solving skills are:
+- Timeless
+- Universal
+- Cross-disciplinary
+
+They are the *most important* skills you will learn on this course and the most valuable to employers.
+
+---
+
+class: logo
+
+# Euclid of Alexandria
+
+- Lived in Greece around 300 B.C.
+- Father of Geometry
+- Wrote "Elements", which is still used today to teach Mathematics
+- Would be an amazing programmer
+
+![Euclid](euclid.jpg)
+
+---
+
+class: logo
+
+# Our Main Tools
+
+## Abstraction
+
+Viewing something in general terms without focusing on its concrete details.
+
+## Algorithm
+
+A set of instructions, carried out in a specific order, that lead to a desired output.
+
+(From Al-Khwarizimi, a Persian mathematician and scholar.)
+
+Software is an elaborate algorithm, composed of many smaller algorithms.
+
+
+---
+
+class: center, middle
+
+![Levels of Abstraction](levels-of-abstraction.png)
+
+---
+
+class: logo
+
+# An algorithm for an algorithm
+
+1. **THINK & ABSTRACT**. Make sure you ask any questions you need to help you understand the problem.
+2. **BREAK IT DOWN** and focus on one part that you have an idea how to solve or begin with a really easy example.
+3. **USE NATURAL LANGUAGE**. Think about how to solve this part. Use natural language, diagrams etc.
+4. **WRITE PSEUDOCODE**
+5. **TRANSLATE** pseudocode to code
+6. **TEST**, ask whether it worked or why it didn't and consider edge cases.
+7. **REPEAT** the process for further small part of the problem until finally you are ready to compose.
+
+---
+
+
+class: logo
+
+# Sample problem:
+
+Your programme contains a list of student IDs in the format "stu2574413" where the final two numbers represent a year. Sometimes students in the list expire and need to be removed from the list.
+
+Create a function that takes a list of IDs and an expiry year and removes any expired students from the list, returning a new list.
+
+---
+
+class: logo
+
+# Make Palindrome
+
+For this problem, you need to create a function that takes a string as an argument. The string will contain letters only, no spaces or other characters. If the letters can be rearranged into a palindrome the function should return true. If not, the function should return false. NB the palindrome does not need to be a sensible English word.
+
+---
+
+class: logo
+
+# Sample problem: 
+
+Users on longer flights like to start a second movie right when their first one ends, but they complain that the plane usually lands before they can see the ending. So you're building a feature for choosing two movies whose total runtimes will equal the exact flight length.
+
+Write a function that takes a `flightLength` and a list of `movieLengths` and returns a boolean indicating whether there are two numbers in `movieLengths` whose sum equals `flightLength`.
+
+---
+class: logo
+
+# More Tips
+
+### Hardcode/mock more difficult parts of the problem
+### Try to predict your code before you run it
+### Practice problems solving every day
+### Don't get frustrated
+
+
+---
+class: logo
+
+# The 5 Elements of Effective Thinking
+
+- Book by Michael Starbird. [Link to videos on YouTube](https://www.youtube.com/playlist?list=PLEo7ej2RhHszJy_77UXC8GJpb8LtW-dJT).
+1. Understand deeply. Identify fundamental ideas and focus on understanding them deeply.
+2. Make mistakes for the purpose of learning. Thinking about how to fix mistakes is a much better educational experience than getting something right the first time.
+3. Ask questions. Always having a question is a way of seeing the world that leads to better understading.
+4. Follow the flow of ideas. Look for connections and meaning, everything else is variations and applications of fundamental ideas.
+5. Change. Always expecting change helps putting things into perspective.
+
+
+
+
+
+    </textarea>
+    <script src="remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
