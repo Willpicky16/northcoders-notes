@@ -27,21 +27,56 @@
 
 ## Week 4 - Front End JavaScript (React)
 
+Lectures
 - Intro to Front End Development
-- DOM API + JQUERY Comment Box
+- Intro to jQuery and the DOM
 - Intro to React
-- React Comment Box
-- Random Quote Generator
+- Thinking in React
 - Fetching Data
-- Responsive design & CSS frameworks
+- CSS Basics, Responsive Design & Frameworks
+- Functional components & propTypes
 - React Architecture
+
+Sprints
+- DOM API + JQUERY Comment Box Sprint (1 day)
+- React Comment Box Sprint (1 day)
+- Random Quote Generator Sprint (1 day)
+- Northwitter Sprint (2 days)
 
 ## Week 5 - Front End JavaScript (React)
 
-## Week 6 - Front End JavaScript (React)
+Lectures
+- Bundling and tooling with Webpack
+- Reusable Components
+- ES6 Modules and Classes (Missed)
+- React Router Intro (Missed)
+- Async Revision & Promises (Missed)
 
-## Week 7 - Back End JavaScript (Mongo)
+Sprints
+- Trello Sprint (2 days)
+- Noughts and Crosses Sprint (1 day)
+- Github Sprint (2 days)
 
-## Week 8 - Back End JavaScript (Mongo)
+## Week 6 - Front End JavaScript (React & Redux)
 
-## Week 9 - Back End JavaScript (Mongo)
+Lectures
+- Intro to React Redux
+
+Sprints
+- Shopping Basket Sprint (1 day)
+- Reduce Vending Machine Sprint (2 days)
+- NC News Sprint (2 days)
+
+## Week 7 - Remote Week
+
+## Week 8 - Back End JavaScript
+
+## Week 9 - Back End JavaScript
+
+## Week 10 - Back End JavaScript
+
+## Week 11 - Project
+
+## Week 12 - Project
+
+## Week 13 - Project
