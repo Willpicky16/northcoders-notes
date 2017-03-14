@@ -1,2 +1,14 @@
-# northcoders-notes
-Northcoders Notes
+# Northcoders Notes
+- Week 1 - Core JS
+- Week 2 - Core JS
+- Week 3 - Core JS
+- Week 4 - Front End
+- Week 5 - Front End
+- Week 6 - Front End
+- Week 7 - Remote Week
+- Week 8 - Back End
+- Week 9 - Back End
+- Week 10 - Back End
+- Week 11 - Project Week
+- Week 12 - Project Week
+- Week 13 - Project Week
