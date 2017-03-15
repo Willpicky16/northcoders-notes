@@ -61,6 +61,11 @@ Sprints
 
 Lectures
 - Intro to React Redux
+- Redux State design
+- ES6 strings
+- Connect React and Redux
+- Fetching data with Redux
+
 
 Sprints
 - Shopping Basket Sprint (1 day)
