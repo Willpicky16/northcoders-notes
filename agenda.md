@@ -74,7 +74,26 @@ Sprints
 
 ## Week 7 - Remote Week
 
+Todo
+- Lowbar (implementing underscore)
+- NC News
+
 ## Week 8 - Back End JavaScript
+
+Lectures
+- Introduction to ExpressJS + Server Development (Missed)
+- Advanced ExpressJS
+- Mongo
+- Object Document Mapping
+- REST & Application Structure
+- Async.js
+- Error Handling & Middleware
+- Testing APIs
+
+Sprints
+- Backend 101
+- REST API
+- Northcoders News API
 
 ## Week 9 - Back End JavaScript
 
